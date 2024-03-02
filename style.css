@@ -1,0 +1,30 @@
+body{
+    padding: 0;
+    margin-top: 5px;
+}
+
+.heading{
+    color: black;
+    margin-left: 45%;
+    text-decoration: underline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aqua;
+    padding: 20px;
+    margin: 30px;
+}
+
+.button{
+    padding: 5px;
+    border-color: azure;
+    background-color: aquamarine;
+    margin-left: 50%;
+    width: 150px;
+    height: 50px;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 15px;
+    cursor: pointer;
+}
